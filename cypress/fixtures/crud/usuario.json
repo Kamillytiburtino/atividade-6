@@ -1,0 +1,33 @@
+[
+    {
+        "id":"e799a2a6-4661-4ef7-94bc-3ad4c419c4ce",
+        "name":"Guilherme Santos",
+        "email":"guilhermesantos@gmail.com",
+        "createdAt":"2022-05-10T17:22:05.037Z",
+        "updatedAt":"2022-05-10T17:22:05.037Z"
+    },
+        
+    {
+        "id":"31cb4d95-1a90-4585-9a42-1d386748fa3a",
+        "name":"Queen",
+        "email":"rockinrollforever@email.com",
+        "createdAt":"2022-05-10T17:22:44.366Z",
+        "updatedAt":"2022-05-10T17:22:44.366Z"
+    },
+        
+    {
+        "id":"9ae8f0cb-d120-47b7-b4d5-1e3d6204c8e8",
+        "name":"Queen",
+        "email":"rockinroll@email.com",
+        "createdAt":"2022-05-10T17:22:47.837Z",
+        "updatedAt":"2022-05-10T17:22:47.837Z"
+    },
+
+    {
+        "id":"8b4b2e8e-d399-4e01-98e2-19d63f4fccb6",
+        "name":"tysassas",
+        "email":"teseee@gmail.com",
+        "createdAt":"2022-05-10T17:28:32.154Z",
+        "updatedAt":"2022-05-10T17:28:32.154Z"
+      }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "atividade-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamillytiburtino/atividade6-academy-Kamilly-Carvalho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamillytiburtino/atividade6-academy-Kamilly-Carvalho/issues"
+  },
+  "homepage": "https://github.com/Kamillytiburtino/atividade6-academy-Kamilly-Carvalho#readme",
+  "dependencies": {
+    "cypress": "^9.6.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  }
+}
